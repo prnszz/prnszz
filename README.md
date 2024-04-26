@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @prnszz
-- 👀 I’m interested in studying NLP, LLM.  
-- 🌱 I’m currently learning :)  
-- 💞️ I’m looking to collaborate on 0.0  
-- 📫 How to reach me qiu.pengshuo.t5@dc.tohoku.ac.jp  
+- 👋 Hi, I’m Pengshuo Qiu.
+- Here's my personal website: https://prnszz.github.io
 
 <!---
 prnszz/prnszz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
